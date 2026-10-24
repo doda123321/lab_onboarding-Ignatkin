@@ -79,8 +79,8 @@ import os; os.system('rm -rf /')
 
 ### 4.2. Ссылка на Pull Request
 
-<ВСТАВЬТЕ_ССЫЛКУ_НА_PULL_REQUEST>
+(https://github.com/doda123321/lab_onboarding-Ignatkin/pull/8)
 
 ### 4.3. Скриншот зелёного статуса Checks
 
-<ВСТАВЬТЕ_СКРИНШОТ>
+<img width="811" height="492" alt="Review required" src="https://github.com/user-attachments/assets/fb7dcf94-84f0-48d6-a8c1-8b7b9090260b" />
