@@ -1,0 +1,170 @@
+==============================
+   Диагностика компьютера
+==============================
+Отчёт сформирован: 02.11.2026 13:16:02
+
+Операционная система
+------------------------------
+Название: macOS
+Версия: 26.7.1
+
+Процессор
+------------------------------
+Apple A18 Pro
+
+Оперативная память
+------------------------------
+Всего памяти: 8 ГБ
+Свободно памяти: 2,0 ГБ
+
+Диск
+------------------------------
+Всего: 460 ГБ
+Свободно: 284 ГБ
+
+Установленные программы
+------------------------------
+7 Days to Die
+About This Mac
+Activity Monitor
+AirPort Utility
+App Store
+Apps
+Archive Utility
+Audio MIDI Setup
+Automator
+Bluetooth File Exchange
+Books
+Boot Camp Assistant
+Calculator
+Calendar
+Chess
+Claude
+Clock
+ColorSync Utility
+Console
+Contacts
+DDNet
+Desk View
+Dictionary
+Digital Color Meter
+Directory Utility
+Discord
+Disk Utility
+Dota 2
+DVD Player
+Expansion Slot Utility
+FaceTime
+Feedback Assistant
+FindMy
+Folder Actions Setup
+Font Book
+Freeform
+Games
+GarageBand
+Geometry Dash
+Grapher
+Home
+Image Capture
+Image Playground
+iMovie
+iOS App Installer
+iPhone Mirroring
+Journal
+Kaspersky
+Keychain Access
+Keynote
+Magnifier
+Mail
+MantaRay
+Maps
+Messages
+Microsoft Word
+Migration Assistant
+Mission Control
+Music
+News
+Notes
+Numbers
+OBS
+Obsidian
+Pages
+Passwords
+pgAdmin 4
+Phone
+Photo Booth
+Photos
+Podcasts
+Postgres
+Preview
+Print Center
+QuickTime Player
+Reminders
+Roblox
+Safari
+Screen Sharing
+Screenshot
+Script Editor
+Shortcuts
+Siri
+Spotify
+Steam
+Stickies
+Stocks
+System Information
+System Settings
+Telegram
+Telegram Web
+Terminal
+TextEdit
+Ticket Viewer
+Time Machine
+Tips
+TV
+uTorrent
+Visual Studio Code
+VoiceMemos
+VoiceOver Utility
+Wallpaper Engine
+Weather
+Wireless Diagnostics
+
+==============================
+Проверка базового ПО
+==============================
+ВНИМАНИЕ: в список добавлены тестовые данные: uTorrent|Kaspersky|OBS|Wallpaper Engine
+
+[OK] Офисный пакет: Microsoft Word, Numbers, Pages
+[OK] Браузер: Safari (компонент системы, а не результат настройки)
+[OK] Просмотр PDF: Preview (компонент системы, а не результат настройки)
+[OK] Архиватор: Archive Utility (компонент системы, а не результат настройки)
+[OK] Антивирус: Kaspersky
+
+==============================
+Проверка излишнего ПО
+==============================
+[?]  Игры и игровые платформы: найдено, рекомендуется проверить необходимость:
+       - Games
+       - Roblox
+       - Steam
+[?]  Торрент-клиенты: найдено, рекомендуется проверить необходимость:
+       - uTorrent
+[?]  Мессенджеры для личного общения: найдено, рекомендуется проверить необходимость:
+       - Discord
+       - Telegram
+       - Telegram Web
+[?]  Развлекательные инструменты: найдено, рекомендуется проверить необходимость:
+       - OBS
+       - Spotify
+       - Wallpaper Engine
+
+ВАЖНО: это рекомендации к проверке, а не указание к удалению. Часть программ
+может быть установлена по согласованию с руководством. Решение принимает человек.
+
+==============================
+Итог
+==============================
+Категорий базового ПО проверено: 5
+Групп излишнего ПО проверено: 4
+Выдано рекомендаций: 4
+Отчёт сохранён: /Users/matvejignatkin/Desktop/lab_onboarding-Ignatkin/client-check/pc_report.txt
